@@ -14,5 +14,9 @@
     "html-webpack-plugin": "^5.5.1",
     "webpack": "^5.80.0",
     "webpack-dev-server": "^4.13.3"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.7",
+    "bootstrap": "^5.2.3"
   }
 }
